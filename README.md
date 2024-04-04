@@ -13,5 +13,5 @@ n = 使用者輸入數字
 列印從1到n的和為:sum  
 ```print("從1到{}的和為:{}".format(n,sum))```
 
-列印結果
+列印結果  
 ![img](https://github.com/kurumicute/Ex-7-text/assets/90886946/eb129f9b-722f-4939-a057-7ab1ba96e619)
